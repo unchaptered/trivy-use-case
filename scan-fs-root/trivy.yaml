@@ -1,0 +1,5 @@
+cache:
+  backend: redis://localhost:6379
+
+  redis:
+    tls: false
