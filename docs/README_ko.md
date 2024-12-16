@@ -2,12 +2,12 @@
 
 본 문서는 Trivy CLI의 몇 가지 사용 사례를 다루고 있습니다.
 
-[설치](./README.md#설치) 및 [설정](./README.md#설정) 단계를 수행한 후, 각 [목록](./README.md#목록) 폴더 안에서 action.sh를 실행해주세요.
+[설치](./README_ko.md#설치) 및 [설정](./README_ko.md#설정) 단계를 수행한 후, 각 [목록](./README_ko.md#목록) 폴더 안에서 action.sh를 실행해주세요.
 
 ## 번역본
 
-- Korean : [open](./docs/README_ko.md)
-- English : [open](./docs/README_en.md)
+- Korean : [open](./README_ko.md)
+- English : [open](./README_en.md)
 
 ## 설치
 
