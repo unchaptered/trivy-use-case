@@ -1,4 +1,4 @@
-# trivy-use-case
+# Trivy Use Case
 
 본 문서는 Trivy CLI의 몇 가지 사용 사례를 다루고 있습니다.
 

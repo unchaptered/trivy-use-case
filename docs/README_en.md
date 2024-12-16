@@ -1,4 +1,4 @@
-# trivy-use-case
+# Trivy Use Case
 
 This document covers several use cases for the Vault Radar CLI.
 
